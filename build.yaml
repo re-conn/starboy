@@ -21,7 +21,7 @@
 include:
 
   - board: nice_nano_v2
-    shield: starboy nice_view
+    shield: starboy nice_view_adaptor nice_view_gem
 
 ## To build with ZMK Studio support, uncomment the following block
 ## by removing the leading '#' from each line.
