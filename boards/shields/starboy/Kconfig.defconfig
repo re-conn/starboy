@@ -5,7 +5,6 @@ config ZMK_KEYBOARD_NAME
     default "starboy"
 
 endif
-CONFIG_ZMK_IDLE_TIMEOUT=50000
 
 if BOARD_NICE_NANO_V2 && SHIELD_STARBOY
 
