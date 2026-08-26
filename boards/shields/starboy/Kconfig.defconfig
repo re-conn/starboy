@@ -5,10 +5,3 @@ config ZMK_KEYBOARD_NAME
     default "starboy"
 
 endif
-
-if BOARD_NICE_NANO_V2 && SHIELD_STARBOY
-
-config SPI
-    default y
-
-endif
