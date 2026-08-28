@@ -8,4 +8,4 @@
 include:
 
   - board: nice_nano_v2
-    shield: starboy
+    shield: starboy nice_view
