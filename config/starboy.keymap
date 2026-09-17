@@ -24,7 +24,7 @@
         };
         mod_layer {
             display-name = "Modified";
-            bingings = <
+            bindings = <
                 &bootloader &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &kp SCROLLLOCK
                 &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
                 &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
